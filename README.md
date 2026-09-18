@@ -50,6 +50,8 @@ $ ./avijith-labs --status
 * 🔭 Currently working on **[Netflix Clone](https://github.com/avijith-labs/Netfilx-Clone)**
 * 🌱 Currently learning **React**
 * 👯 Looking to collaborate on **[Netflix Clone](https://github.com/avijith-labs/Netfilx-Clone)**
+* 👯 Looking to collaborate on **[Netflix Clone](https://github.com/avijith-labs/Doctors-Website)**
+* 👯 Looking to collaborate on **[Netflix Clone](https://github.com/avijith-labs/ToDo-List**
 * 🤝 Looking for help with **[ToDo List](https://github.com/avijith-labs/ToDo-List)**
 * 💬 Ask me about **Frontend Development**
 * 📫 Reach me at **[avijithtalukder@gmail.com](mailto:avijithtalukder@gmail.com)**
